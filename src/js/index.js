@@ -58,7 +58,7 @@ window.onload = function() {
       "https://scontent-mad1-1.xx.fbcdn.net/v/t31.18172-8/19787107_1563643570332676_2282934548416721128_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=19026a&_nc_ohc=zRrs404YoqEAX-rJKHG&_nc_ht=scontent-mad1-1.xx&oh=9bfc295f217237b55f8782f7252d04f6&oe=60F6F778",
     // this is the url for the profile avatar
     avatarURL:
-      "https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/87393918_3047008941996124_5683850880760152064_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=174925&_nc_ohc=QXkQVEVKQ7YAX-qOw2b&_nc_ht=scontent-mad1-1.xx&oh=55148d56f1d830eff95552829562550c&oe=60D58E92",
+      "https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/79868734_2870653552964998_9005229380875583488_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=174925&_nc_ohc=55_AfU95EJoAX_Y8jY0&_nc_ht=scontent-mad1-1.xx&oh=05a668523e056aa39fe82dcfca24bc0d&oe=60F5F352",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
@@ -66,8 +66,8 @@ window.onload = function() {
     github: "alesanchezr",
     linkedin: "#",
     instagram: "#",
-    name: "Name",
-    lastname: "Last Name",
+    name: " ",
+    lastname: " ",
     role: "",
     country: "",
     city: ""
